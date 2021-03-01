@@ -8,4 +8,4 @@ I know there will be many people with the same assignment. If that is you, feel 
 
 All the code is inside of the Jupyter Notebook "clustering_seattle_neighborhoods.ipynb". An interactive version of the notebook can be found on mybinder.org [here](https://mybinder.org/v2/gh/CarsonStauffer/IBM_Data_Science_Capstone/f0ba508acc71c7495f3dc488eda8bceae21a9c53).
 
-The other files in the repository include the relevant CSV files and images (mostly used in [this](https://www.linkedin.com/post/6771192736176582656/) article).
+The other files in the repository include the relevant CSV files and images (mostly used in [this](https://www.linkedin.com/pulse/k-means-clustering-seattle-neighborhoods-carson-stauffer) article).
